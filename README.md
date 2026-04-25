@@ -104,8 +104,8 @@
         <h2>History</h2>
         <ul>
             <li>ZEN大学 知能情報社会専攻（在学中）</li>
-            <li>日本財団HUMAIプログラム 奨励金B 採択<\li>
-            <li>ZEN大学 特待奨学生 採択<\li>
+            <li>日本財団HUMAIプログラム 奨励金B 採択</li>
+            <li>ZEN大学 特待奨学生 採択</li>
         </ul>
     </section>
 
